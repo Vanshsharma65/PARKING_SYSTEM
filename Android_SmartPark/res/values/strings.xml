@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Park</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="hint_username">Username or Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="signup_link">Don\'t have an account? Register</string>
+    <string name="invalid_login">Invalid credentials. Try again.</string>
+</resources>

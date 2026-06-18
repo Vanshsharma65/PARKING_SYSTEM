@@ -1,0 +1,21 @@
+{
+	"appId": "com.vansh.smartpark",
+	"appName": "SmartPark",
+	"webDir": "dist",
+	"android": {},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#0A0A0A",
+			"androidSplashResourceName": "splash",
+			"showSpinner": false
+		},
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	}
+}
